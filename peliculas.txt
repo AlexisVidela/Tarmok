@@ -1,0 +1,2000 @@
+﻿51052
+102 Dalmatians
+Kevin Lima
+Comedy
+372
+333
+6.7
+2000
+0
+Color
+1824
+2 Fast 2 Furious
+John Singleton
+Action
+22000
+2105
+6.6
+2003
+75000000
+Color
+187
+8 Mile
+Curtis Hanson
+Drama
+15000
+2691
+7.2
+2002
+40000000
+Color
+15927
+Aladdin
+Ron Clements
+Animation
+30000
+67
+6.9
+1992
+8000000
+Color
+36668
+Alice in Wonderland
+Tim Burton
+Fantasy
+24000
+3525
+6.3
+2010
+210000000
+Color
+70074
+Alien 3
+David Fincher
+Horror
+33000
+481
+5.2
+1992
+55000000
+Color
+40160
+Aliens
+James Cameron
+Sci-Fi
+18000
+36
+5.1
+1986
+0
+Color
+854
+Alone in the Dark
+Uwe Boll
+Horror
+1000
+2472
+6.6
+2005
+23000000
+Color
+9675
+Amadeus
+Milos Forman
+Drama
+16000
+478
+6.9
+1984
+16000000
+Color
+12289
+Amelie
+Jean-Pierre Jeunet
+Comedy
+39000
+205
+7.1
+2001
+80341000
+BW
+76163
+American Gangster
+Ridley Scott
+Drama
+10000
+2896
+6.1
+2007
+100000000
+Color
+533
+American Pie 2
+J.B. Rogers
+Comedy
+4000
+643
+6.8
+2001
+30000000
+Color
+9390
+Anastasia
+Don Bluth
+Adventure
+5000
+913
+6.7
+1997
+50000000
+Color
+74
+Ant-Man
+Peyton Reed
+Adventure
+61000
+2322
+6.2
+2015
+132000000
+Color
+9384
+Antz
+Eric Darnell
+Animation
+2000
+644
+5.6
+1998
+60000000
+Color
+1880
+Apollo 13
+Ron Howard
+Adventure
+5000
+215
+6.4
+1995
+4200000
+Color
+19995
+Avatar
+James Cameron
+Adventure
+33000
+11800
+7.2
+2009
+237000000
+Color
+767
+Avengers: Age of Ultron
+Joss Whedon
+Action
+118000
+5293
+7.4
+2015
+250000000
+Color
+9928
+Batman Returns
+Tim Burton
+Action
+14000
+1333
+6
+1992
+75000000
+Color
+135397
+Battleship
+Peter Berg
+Action
+44000
+8662
+6.5
+2012
+150000000
+Color
+2752
+Birdman or (The Unexpected Virtue of Ignorance)
+Alejandro G. IÃ±Ã¡rritu
+Drama
+114000
+297
+5.2
+2014
+17000000
+Color
+121
+Black Hawk Down
+Ridley Scott
+Drama
+10000
+7487
+8
+2001
+79000000
+Color
+524
+Blade II
+Guillermo del Toro
+Horror
+6000
+1307
+7.8
+2002
+52000000
+Color
+188927
+Brave
+Mark Andrews
+Animation
+39000
+2568
+6.6
+2012
+185000000
+Color
+1573
+Braveheart
+Mel Gibson
+Drama
+17000
+1896
+6.6
+1995
+70000000
+Color
+44833
+Captain America: Civil War
+Anthony Russo
+Action
+72000
+2114
+5.5
+2016
+209000000
+Color
+587
+Cars
+John Lasseter
+Animation
+16000
+1994
+7.6
+2006
+70000000
+Color
+44912
+Cars 2
+John Lasseter
+Animation
+10000
+2487
+5.1
+2011
+200000000
+Color
+10329
+Casino
+Martin Scorsese
+Drama
+11000
+213
+5
+1995
+50000000
+Color
+9268
+Casino Royale
+Martin Campbell
+Action
+40000
+543
+5.6
+2006
+100000000
+BW
+8204
+Cinderella
+Kenneth Branagh
+Fantasy
+56000
+572
+6.3
+2015
+90000000
+Color
+76492
+Conan the Barbarian
+John Milius
+Fantasy
+1000
+2566
+6.8
+1982
+85000000
+Color
+137106
+Coraline
+Henry Selick
+Animation
+10000
+3070
+7.5
+2009
+60000000
+BW
+109431
+Creed
+Ryan Coogler
+Drama
+70000
+1645
+5.6
+2015
+35000000
+Color
+9549
+Dawn of the Dead
+Zack Snyder
+Action
+7000
+235
+7.3
+2004
+27000000
+Color
+10530
+Deadpool
+Tim Miller
+Action
+117000
+1457
+6.7
+2016
+55000000
+Color
+72976
+Despicable Me
+Pierre Coffin
+Animation
+31000
+1429
+6.7
+2010
+65000000
+Color
+594
+Despicable Me 2
+Pierre Coffin
+Animation
+56000
+1910
+7
+2013
+60000000
+Color
+95
+Die Another Day
+Lee Tamahori
+Adventure
+1000
+2482
+6.4
+2002
+140000000
+BW
+10188
+Die Hard
+John McTiernan
+Action
+25000
+238
+6
+1988
+27000000
+Color
+2270
+Die Hard 2
+Renny Harlin
+Action
+20000
+1184
+7.1
+1990
+70000000
+Color
+9946
+Django Unchained
+Quentin Tarantino
+Drama
+199000
+482
+5.5
+2012
+100000000
+Color
+20352
+Doom
+Andrzej Bartkowiak
+Sci-Fi
+0
+6478
+7.1
+2005
+69000000
+Color
+11353
+DragonHeart
+Rob Cohen
+Fantasy
+1000
+254
+6
+1996
+55000000
+Color
+9804
+Edge of Tomorrow
+Doug Liman
+Adventure
+77000
+992
+5.9
+2014
+175000000
+Color
+83542
+Eragon
+Stefen Fangmeier
+Fantasy
+14000
+2977
+6.6
+2006
+102000000
+BW
+137113
+Evan Almighty
+Tom Shadyac
+Comedy
+2000
+4858
+7.6
+2007
+178000000
+Color
+146
+Evil Dead
+Fede Alvarez
+Horror
+70000
+927
+7.2
+2013
+17000000
+Color
+262500
+Fantastic Four
+Josh Trank
+Action
+41000
+3829
+6.2
+2015
+110000000
+Color
+228194
+Footloose
+Herbert Ross
+Drama
+4000
+508
+7.3
+1984
+22000000
+Color
+1729
+Forrest Gump
+Robert Zemeckis
+Drama
+59000
+461
+6.3
+1994
+55000000
+BW
+72190
+Furious 7
+James Wan
+Action
+94000
+5560
+6.7
+2015
+200000000
+Color
+44857
+Ghost
+Jerry Zucker
+Drama
+15000
+14
+5.5
+1990
+0
+Color
+97020
+Ghost Rider
+Mark Steven Johnson
+Fantasy
+4000
+2342
+5.7
+2007
+120000000
+Color
+18487
+Gladiator
+Ridley Scott
+Action
+21000
+954
+6.2
+2000
+100000000
+Color
+11152
+Goodfellas
+Martin Scorsese
+Drama
+25000
+265
+5.6
+1990
+8000000
+Color
+2024
+Gravity
+Alfonso CuarÃ³n
+Drama
+147000
+1099
+6.8
+2013
+110000000
+Color
+10193
+Green Lantern
+Martin Campbell
+Action
+24000
+4597
+7.6
+2011
+200000000
+Color
+8467
+Hamlet
+Kenneth Branagh
+Drama
+2000
+1859
+6.5
+1996
+16000000
+Color
+1904
+Hannibal
+Ridley Scott
+Horror
+59000
+652
+7.3
+2001
+85000000
+Color
+47327
+Hannibal Rising
+Peter Webber
+Horror
+3000
+600
+5.3
+2007
+50000000
+Color
+27581
+Harry Potter and the Chamber of Secrets
+Chris Columbus
+Fantasy
+60000
+1383
+6.1
+2002
+100000000
+Color
+18823
+Harry Potter and the Deathly Hallows: Part I
+Matt Birch
+Fantasy
+25
+2233
+5.6
+2010
+125000000
+Color
+209112
+Harry Potter and the Half-Blood Prince
+David Yates
+Fantasy
+10000
+7004
+5.7
+2009
+250000000
+Color
+44113
+Her
+Spike Jonze
+Drama
+148000
+192
+5.2
+2013
+22000000
+Color
+29193
+Hercules
+Brett Ratner
+Adventure
+21000
+73
+7.1
+2014
+10000000
+Color
+17403
+Hitman
+Xavier Gens
+Action
+600
+42
+5.7
+2007
+0
+Color
+49017
+Hook
+Steven Spielberg
+Adventure
+13000
+2389
+6.2
+1991
+70000000
+Color
+98
+I, Robot
+Alex Proyas
+Sci-Fi
+11000
+5439
+7.9
+2004
+103000000
+Color
+196867
+Ice Age
+Chris Wedge
+Animation
+3000
+466
+6
+2002
+65000000
+Color
+15189
+Independence Day
+Roland Emmerich
+Sci-Fi
+16000
+202
+5.7
+1996
+35000000
+Color
+105864
+Indiana Jones and the Kingdom of the Crystal Skull
+Steven Spielberg
+Adventure
+5000
+1736
+6.6
+2008
+175000000
+Color
+5125
+Indiana Jones and the Temple of Doom
+Steven Spielberg
+Adventure
+30000
+205
+6.2
+1984
+27500000
+Color
+27983
+Insomnia
+Christopher Nolan
+Drama
+14000
+26
+6.2
+2002
+0
+Color
+44826
+Iron Man
+Jon Favreau
+Action
+10000
+2141
+7
+2008
+170000000
+Color
+58595
+Iron Man 2
+Jon Favreau
+Action
+18000
+3118
+5.8
+2010
+170000000
+Color
+12155
+Iron Man 3
+Shane Black
+Action
+95000
+4645
+6.4
+2013
+200000000
+Color
+12155
+Iron Man 3
+Shane Black
+Adventure
+95000
+4645
+6.4
+2013
+200000000
+Color
+44048
+Jurassic Park III
+Joe Johnston
+Action
+17000
+1165
+6.3
+2001
+100000000
+Color
+37724
+Jurassic World
+Colin Trevorrow
+Adventure
+150000
+7604
+6.9
+2015
+200000000
+Color
+16072
+Kill Bill: Vol. 1
+Quentin Tarantino
+Action
+13000
+48
+6.1
+2003
+56000000
+BW
+145220
+Kill Bill: Vol. 2
+Quentin Tarantino
+Action
+5000
+316
+6.2
+2004
+50000000
+BW
+597
+King Kong
+Peter Jackson
+Adventure
+5000
+7562
+7.5
+2005
+200000000
+Color
+134
+Kundun
+Martin Scorsese
+Drama
+5000
+1112
+7.3
+1997
+26000000
+Color
+228161
+Kung Fu Panda
+Mark Osborne
+Animation
+6000
+1519
+6.8
+2008
+135000000
+Color
+7737
+Liar Liar
+Tom Shadyac
+Comedy
+30000
+1292
+6.1
+1997
+45000000
+Color
+6538
+Madagascar
+Eric Darnell
+Animation
+20000
+338
+6.5
+2005
+75000000
+Color
+119450
+Maleficent
+Robert Stromberg
+Fantasy
+89000
+4410
+7.3
+2014
+170000000
+Color
+2454
+Man of Steel
+Zack Snyder
+Action
+118000
+1630
+6.3
+2013
+225000000
+Color
+39514
+Marley & Me
+David Frankel
+Comedy
+11000
+2808
+6.6
+2008
+58000000
+Color
+18886
+Max Payne
+John Moore
+Action
+700
+31
+5.7
+2008
+35000000
+Color
+122917
+Men in Black 3
+Barry Sonnenfeld
+Sci-Fi
+40000
+4760
+7.1
+2012
+250000000
+Color
+39451
+Minority Report
+Steven Spielberg
+Sci-Fi
+7000
+1060
+5.4
+2002
+100000000
+Color
+6964
+Mission: Impossible
+Brian De Palma
+Action
+10000
+410
+6.3
+1996
+80000000
+Color
+70981
+Mission: Impossible II
+John Woo
+Adventure
+20000
+5080
+6.3
+2000
+130000000
+Color
+8373
+Monsters University
+Dan Scanlon
+Animation
+44000
+3138
+6
+2013
+150000000
+Color
+12690
+Mortal Kombat
+Paul W.S. Anderson
+Fantasy
+700
+299
+6.3
+1995
+20000000
+Color
+257344
+Mulan
+Tony Bancroft
+Animation
+12000
+2513
+5.6
+1998
+88000000
+Color
+2567
+Night at the Museum
+Shawn Levy
+Comedy
+3000
+1489
+7
+2006
+116000000
+Color
+152737
+No Country for Old Men
+Ethan Coen
+Drama
+21000
+483
+6.9
+2007
+25000000
+Color
+38356
+Pacific Rim
+Guillermo del Toro
+Sci-Fi
+83000
+3299
+6.1
+2013
+195000000
+Color
+1858
+Pearl Harbor
+Michael Bay
+Drama
+4000
+4040
+6.6
+2001
+150000000
+BW
+57201
+Pirates of the Caribbean: Dead Man's Chest
+Gore Verbinski
+Fantasy
+5000
+2311
+5.9
+2006
+255000000
+Color
+58574
+Pirates of the Caribbean: The Curse of the Black Pearl
+Gore Verbinski
+Adventure
+10000
+3886
+7
+2003
+125000000
+Color
+68718
+Planet of the Apes
+Tim Burton
+Adventure
+35000
+10099
+7.8
+2001
+100000000
+Color
+8818
+Pocahontas
+Mike Gabriel
+Animation
+14000
+120
+5.9
+1995
+55000000
+Color
+193893
+Predator
+John McTiernan
+Sci-Fi
+13000
+1219
+6.4
+1987
+17000000
+Color
+9306
+Predators
+NimrÃ³d Antal
+Sci-Fi
+17000
+147
+4.6
+2010
+40000000
+Color
+68726
+Prince of Persia: The Sands of Time
+Mike Newell
+Fantasy
+23000
+4794
+6.7
+2010
+180000000
+Color
+35056
+Rambo III
+Peter MacDonald
+Action
+2000
+1122
+5.9
+1988
+55000000
+Color
+8909
+Red Dragon
+Brett Ratner
+Drama
+600
+2528
+6.4
+2002
+75000000
+Color
+118957
+Resident Evil
+Paul W.S. Anderson
+Horror
+500
+191
+5.3
+2002
+30000000
+Color
+45054
+Riddick
+David Twohy
+Sci-Fi
+39000
+27
+5.9
+2013
+0
+Color
+5175
+Rise of the Planet of the Apes
+Rupert Wyatt
+Action
+47000
+1054
+6.4
+2011
+90000000
+Color
+57158
+Robin Hood
+Ridley Scott
+Adventure
+17000
+4524
+7.6
+2010
+250000000
+Color
+585
+RoboCop
+JosÃ© Padilha
+Action
+60000
+5996
+7.5
+2014
+115000000
+Color
+376659
+RoboCop 3
+Fred Dekker
+Action
+716
+1252
+6.3
+1993
+20000000
+Color
+10591
+Scarface
+Brian De Palma
+Drama
+19000
+824
+6.3
+1983
+25000000
+Color
+328387
+School of Rock
+Richard Linklater
+Comedy
+11000
+2181
+7.1
+2003
+20000000
+Color
+146227
+Scream
+Wes Craven
+Horror
+11000
+246
+4.9
+1996
+18000000
+Color
+708
+Scream 3
+Wes Craven
+Horror
+2000
+440
+6.2
+2000
+40000000
+Color
+13156
+Se7en
+David Fincher
+Drama
+39000
+260
+6.9
+1995
+0
+Color
+9383
+Sherlock Holmes
+Guy Ritchie
+Adventure
+20000
+634
+5.6
+2009
+95000000
+Color
+44943
+Shrek 2
+Andrew Adamson
+Animation
+50000
+1448
+5.5
+2004
+70000000
+Color
+2300
+Shutter Island
+Martin Scorsese
+Action
+53000
+1288
+6.5
+2010
+80000000
+Color
+10061
+Silent Hill
+Christophe Gans
+Horror
+800
+373
+5.6
+2006
+50000000
+Color
+440
+Sin City
+Frank Miller
+Action
+13000
+740
+4.9
+2005
+40000000
+BW
+102651
+Snow White and the Huntsman
+Rupert Sanders
+Fantasy
+53000
+4496
+7
+2012
+180000000
+Color
+2135
+Space Jam
+Joe Pytka
+Adventure
+7000
+631
+5.8
+1996
+80000000
+Color
+188161
+Spawn
+Mark A.Z. DippÃ©
+Horror
+20000
+1468
+5.8
+1997
+0
+Color
+10549
+Spirited Away
+Hayao Miyazaki
+Animation
+28000
+117
+7.3
+2001
+0
+Color
+10681
+Star Trek Beyond
+Justin Lin
+Adventure
+30000
+6296
+7.8
+2016
+180000000
+Color
+81005
+Star Trek Into Darkness
+J.J. Abrams
+Adventure
+92000
+2598
+5.5
+2013
+195000000
+Color
+9619
+Star Wars: Episode I - The Phantom Menace
+George Lucas
+Sci-Fi
+13000
+428
+5.7
+1999
+116000000
+Color
+290595
+Star Wars: Episode II - Attack of the Clones
+George Lucas
+Sci-Fi
+60000
+1523
+6
+2002
+115000000
+Color
+12100
+Star Wars: Episode III - Revenge of the Sith
+George Lucas
+Sci-Fi
+10000
+341
+5.8
+2005
+115000000
+Color
+7548
+Star Wars: Episode V - The Empire Strikes Back
+Irvin Kershner
+Sci-Fi
+17000
+128
+5.9
+1980
+0
+Color
+296099
+Star Wars: Episode VI - Return of the Jedi
+Richard Marquand
+Sci-Fi
+14000
+1195
+6.2
+1983
+31000000
+Color
+7304
+Steve Jobs
+Danny Boyle
+Drama
+23000
+331
+7
+2015
+17000000
+Color
+39895
+Stitches
+Conor McMahon
+Fantasy
+1000
+336
+6.2
+2012
+19500000
+Color
+672
+Stuart Little
+Rob Minkoff
+Adventure
+20000
+5815
+7.4
+1999
+100000000
+Color
+2698
+Suicide Squad
+David Ayer
+Action
+80000
+1151
+5.3
+2016
+175000000
+Color
+8195
+Superman
+Richard Donner
+Action
+15000
+658
+6.7
+1978
+55000000
+Color
+18239
+Superman II
+Richard Lester
+Action
+12000
+2436
+5.6
+1980
+50000000
+Color
+13836
+Ted
+Seth MacFarlane
+Comedy
+74000
+509
+5.5
+2012
+50000000
+Color
+20662
+The Amazing Spider-Man
+Marc Webb
+Fantasy
+56000
+1398
+6.2
+2012
+200000000
+Color
+1370
+The Avengers
+Joss Whedon
+Action
+123000
+690
+5.7
+2012
+63000000
+Color
+1865
+The Avengers 2
+Joss Whedon
+Action
+123000
+4948
+6.4
+2012
+380000000
+Color
+39254
+The Aviator
+Martin Scorsese
+Drama
+25000
+2692
+6.6
+2004
+110000000
+BW
+1124
+The Conjuring 2
+James Wan
+Horror
+40000
+4391
+8
+2016
+40000000
+Color
+14160
+The Dark Knight
+Christopher Nolan
+Action
+37000
+6870
+7.7
+2008
+175000000
+Color
+49026
+The Dark Knight Rises
+Christopher Nolan
+Action
+164000
+9106
+7.6
+2012
+250000000
+Color
+10661
+The Departed
+Martin Scorsese
+Drama
+29000
+1048
+5.5
+2006
+90000000
+Color
+96721
+The Fast and the Furious
+Rob Cohen
+Action
+14000
+2277
+7.7
+2001
+38000000
+Color
+1995
+The Fifth Element
+Luc Besson
+Sci-Fi
+18000
+2192
+5.7
+1997
+115000000
+Color
+4959
+The Game
+David Fincher
+Drama
+25000
+368
+6
+1997
+50000000
+Color
+2123
+The Godfather: Part III
+Francis Ford Coppola
+Drama
+17000
+927
+6.1
+1990
+51000000
+Color
+2268
+The Hobbit: The Desolation of Smaug
+Peter Jackson
+Fantasy
+83000
+1303
+5.8
+2013
+180000000
+Color
+116745
+The Incredibles
+Brad Bird
+Animation
+40000
+3144
+7
+2004
+90000000
+Color
+10138
+The Jungle Book
+Jon Favreau
+Fantasy
+65000
+6849
+6.6
+2016
+200000000
+Color
+411
+The Legend of Tarzan
+David Yates
+Action
+29000
+2629
+6.7
+2016
+180000000
+Color
+953
+The Lion King
+Roger Allers
+Animation
+17000
+3237
+6.6
+1994
+75000000
+Color
+286217
+The Lord of the Rings: The Fellowship of the Ring
+Peter Jackson
+Adventure
+21000
+7268
+7.6
+2001
+108000000
+Color
+9806
+The Lord of the Rings: The Return of the King
+Peter Jackson
+Adventure
+16000
+5152
+7.4
+2003
+92000000
+Color
+1408
+The Lord of the Rings: The Two Towers
+Peter Jackson
+Adventure
+10000
+136
+5.7
+2002
+98000000
+Color
+11678
+The Lost World: Jurassic Park
+Steven Spielberg
+Sci-Fi
+24000
+283
+5.9
+1997
+75000000
+Color
+51540
+The Master 
+Paul Thomas Anderson
+Drama
+14000
+1225
+6.7
+2012
+85000000
+Color
+57800
+The Mummy Returns
+Stephen Sommers
+Adventure
+5000
+2672
+6.2
+2001
+95000000
+Color
+10060
+The Prestige
+Christopher Nolan
+Sci-Fi
+49000
+186
+6.3
+2006
+40000000
+Color
+120467
+The Punisher
+Jonathan Hensleigh
+Action
+4000
+4519
+8
+2004
+30000000
+Color
+270946
+The Revenant
+Alejandro G. IÃ±Ã¡rritu
+Adventure
+190000
+1346
+6.5
+2015
+132000000
+Color
+6171
+The Score
+Frank Oz
+Drama
+14000
+567
+5.3
+2001
+68000000
+Color
+820
+The Sixth Sense
+M. Night Shyamalan
+Drama
+14000
+502
+7.5
+1999
+40000000
+Color
+1683
+The Skeleton Key
+Iain Softley
+Horror
+2000
+205
+5.4
+2005
+40000000
+BW
+9016
+The Tourist
+Florian Henckel von Donnersmarck
+Action
+25000
+948
+7.2
+2010
+140000000
+Color
+257088
+The Wolf of Wall Street
+Martin Scorsese
+Comedy
+138000
+783
+5.5
+2013
+105000000
+Color
+4244
+The X Files
+Rob Bowman
+Sci-Fi
+4000
+238
+6
+1998
+65000000
+Color
+2779
+There Will Be Blood 
+Paul Thomas Anderson
+Drama
+65000
+165
+6.5
+2007
+0
+Color
+271110
+Titanic
+James Cameron
+Drama
+26000
+7241
+7.1
+1997
+250000000
+Color
+6023
+Toy Story
+John Lasseter
+Animation
+70000
+977
+6.9
+1995
+30000000
+Color
+7446
+Toy Story 2
+John Lasseter
+Animation
+60000
+1667
+6.5
+1999
+92000000
+Color
+534
+Toy Story 3
+Lee Unkrich
+Animation
+30000
+2463
+5.9
+2010
+200000000
+Color
+68728
+Transformers: Age of Extinction
+Michael Bay
+Action
+56000
+3530
+5.7
+2014
+200000000
+Color
+217
+Transformers: Dark of the Moon
+Michael Bay
+Action
+46000
+2495
+5.7
+2011
+185000000
+Color
+11036
+Transporter 2
+Louis Leterrier
+Action
+2000
+3067
+7.7
+2005
+29000000
+Color
+49013
+TRON: Legacy
+Joseph Kosinski
+Sci-Fi
+30000
+2033
+5.8
+2010
+200000000
+Color
+59108
+Twister
+Jan de Bont
+Adventure
+3000
+932
+5.8
+1996
+75000000
+Color
+15512
+Up
+Pete Docter
+Animation
+27000
+1423
+6
+2009
+175000000
+Color
+14199
+V for Vendetta
+James McTeigue
+Action
+48000
+269
+4.4
+2005
+50000000
+Color
+3132
+Vanilla Sky
+Cameron Crowe
+Fantasy
+13000
+228
+5.4
+2001
+70000000
+Color
+10053
+Wall Street
+Oliver Stone
+Drama
+10000
+268
+5.4
+1987
+15000000
+Color
+5174
+WALLÂ·E
+Andrew Stanton
+Animation
+16000
+783
+6.1
+2008
+140000000
+Color
+41216
+Where the Wild Things Are
+Spike Jonze
+Fantasy
+11000
+703
+6.5
+2009
+80000000
+Color
+127585
+World War Z
+Marc Forster
+Sci-Fi
+129000
+6032
+7.5
+2013
+250000000
+Color
+1125
+X-Men
+Bryan Singer
+Adventure
+50000
+284
+6.6
+2000
+70000000
+Color
+415
+X-Men 2
+Bryan Singer
+Sci-Fi
+25000
+1418
+4.2
+2003
+125000000
+Color
+155
+X-Men: Apocalypse
+Bryan Singer
+Action
+54000
+12002
+8.2
+2016
+185000000
+Color
+54138
+X-Men: Days of Future Past
+Bryan Singer
+Adventure
+82000
+4418
+7.4
+2014
+190000000
+Color
+300671
+Yes Man
+Peyton Reed
+Comedy
+20000
+938
+7
+2008
+50000000
+Color
+5126
+Zoolander
+Ben Stiller
+Comedy
+30000
+79
+6.8
+2001
+0
+Color
